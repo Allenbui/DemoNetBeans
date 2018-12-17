@@ -14,7 +14,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="style/css/style-main.css"/>
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans" media="all" />
-        <title>MELLO a</title>
+        <title>Demo NetBeans GIT</title>
     </head>
     <body>
         <jsp:include page="header.jsp"></jsp:include>

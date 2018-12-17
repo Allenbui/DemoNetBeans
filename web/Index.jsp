@@ -17,9 +17,12 @@
         <title>MELLO a</title>
     </head>
     <body>
+        
         <jsp:include page="header.jsp"></jsp:include>
+        <h1>Thay doi tu nhanh Master</h1>
         <%--<jsp:include page="content.jsp"></jsp:include>--%>
         <jsp:include page="map.jsp"></jsp:include>
         <jsp:include page="footer.jsp"></jsp:include>
+        
     </body>
 </html>

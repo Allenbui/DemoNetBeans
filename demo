@@ -1,0 +1,16 @@
+ant -f C:\\Users\\buian\\Documents\\NetBeansProjects\\DemoJavaAPI -Dnb.internal.action.name=run.single -Ddirectory.deployment.supported=true -Djavac.jsp.includes=org/apache/jsp/Index_jsp.java -DforceRedeploy=false -Dnb.wait.for.caches=true -Dbrowser.context=C:\\Users\\buian\\Documents\\NetBeansProjects\\DemoJavaAPI\\web\\Index.jsp -Djsp.includes=C:\\Users\\buian\\Documents\\NetBeansProjects\\DemoJavaAPI\\build\\web\\Index.jsp -Dclient.urlPart=/Index.jsp run
+init:
+deps-module-jar:
+deps-ear-jar:
+deps-jar:
+library-inclusion-in-archive:
+library-inclusion-in-manifest:
+compile:
+compile-jsps:
+Incrementally deploying http://localhost:8080/DemoJavaAPI
+Completed incremental distribution of http://localhost:8080/DemoJavaAPI
+run-deploy:
+Browsing: http://localhost:8080/DemoJavaAPI/Index.jsp
+run-display-browser:
+run:
+BUILD SUCCESSFUL (total time: 1 second)

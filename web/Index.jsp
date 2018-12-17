@@ -18,6 +18,7 @@
     </head>
     <body>
         <jsp:include page="header.jsp"></jsp:include>
+        <h2>cap nhat tai GitHub</h2>
         <%--<jsp:include page="content.jsp"></jsp:include>--%>
         <jsp:include page="map.jsp"></jsp:include>
         <jsp:include page="footer.jsp"></jsp:include>
